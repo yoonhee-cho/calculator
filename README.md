@@ -1,4 +1,5 @@
 ## Setup
+* https://github.com/yoonhee-cho/calculator
 
 1. Clone this repo
 2. Make sure you installed node. You can check it by typing 'node -v' on your terminal
