@@ -98,17 +98,24 @@ const calculate = (s) => {
     
   return calculateHelper();
 };
-// console.log(calculate('1+2'));
+
+console.log(calculate('1+2'));
 // gives 3
-console.log(calculate("4*5/2"));
+
+// console.log(calculate("4*5/2"));
 // gives 10
+
 // console.log(calculate('-5+-8--11 *2')); 
 // gives 9
+
 // console.log(calculate('-.32       /.5'));
 // gives -0.64
+
 // console.log(calculate("(4-2)*3.5"));
 // gives 7
+
 // console.log(calculate('2+-+-4'));
 // gives syntax error or similar
+
 // console.log(calculate('19 + cinammon'));
 // gives Invalid Input (or similar)
